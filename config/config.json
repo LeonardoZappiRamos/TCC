@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1829adm@123#",
+    "database": "Query-Manager",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
